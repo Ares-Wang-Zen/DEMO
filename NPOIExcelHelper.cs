@@ -11,7 +11,7 @@
  using NPOI.POIFS;
  using NPOI.Util;
 using System.Windows.Forms;
-AAAAAAAAAAAAAAAAAAAA
+
      public class NPOIExcelHelper
      {
          /// <summary>
@@ -437,4 +437,3 @@ AAAAAAAAAAAAAAAAAAAA
              return dt;
          }
      }
-VVDFSFDSC
